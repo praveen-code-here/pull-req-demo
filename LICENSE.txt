@@ -1,1 +1,3 @@
-copuwright 2024 dp 12
+copyright 2024 dp 12
+
+include mit licence
